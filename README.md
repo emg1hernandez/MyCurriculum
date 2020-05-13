@@ -1,2 +1,0 @@
-# MyCurriculum
-Personal Information
